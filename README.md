@@ -4,7 +4,7 @@
 ----------------
 ###一、截图
 
-![image](http://github.com/HalfRain/TakePhotoFromAlbumCamer/raw/master/screenshots/photo1.png)
+![image](https://github.com/HalfRain/TakePhotoFromAlbumCamer/raw/master/screenshots/photo1.png)
 
 ###二、APK下载
 
